@@ -1,3 +1,3 @@
 # docker-node
 
-Dockerrised very simple node app
+Dockerised very simple node app
